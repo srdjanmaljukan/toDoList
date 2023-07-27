@@ -1,4 +1,3 @@
-
 export function getDate() {
 
   const today = new Date();
